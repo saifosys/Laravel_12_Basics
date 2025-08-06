@@ -130,3 +130,6 @@ Open your browser and visit: http://127.0.0.1:8000
 ❗ Error: “php not recognized”
 ✅ Fix:
 Make sure XAMPP’s php.exe is added to your system PATH during Composer install.
+
+
+check out my full Laravel 12 tutorials on [saifosys](https://saifosys.com)

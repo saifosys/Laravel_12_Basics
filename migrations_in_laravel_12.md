@@ -146,3 +146,5 @@ Never edit a migration that’s already been run in production — instead, crea
 Name your migrations clearly so others know what it does.  
 
 Use rollback often in development to fix mistakes quickly.  
+
+<img width="2048" height="2048" alt="migrations-in-laravel-12" src="https://github.com/user-attachments/assets/920d0f6f-bb8f-4008-b977-a33201a3d773" />

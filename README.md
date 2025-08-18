@@ -6,3 +6,4 @@
 [Folder Structure in Laravel 12](Folder-Structure-in-laravel12-with-examples.md)  
 [Route, Controller and View in Laravel 12](Route_Controller_Views_in_Laravel.md)  
 [Database Basics and Configuration](https://github.com/saifosys/Laravel12/blob/main/Database-basics-and-configuration-in-Laravel.md)
+[Migrations in Laravel 12](https://github.com/saifosys/Laravel_12_Basics/blob/main/migrations_in_laravel_12.md)

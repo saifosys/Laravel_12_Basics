@@ -81,17 +81,21 @@ I will show you the code and explain what each part does. Don’t worry about ru
 ### 1. Insert Data
 
 $student = new Student();  
-$student->name = "Ali";  
-$student->email = "ali@example.com";  
+$student->name = "Saif";  
+$student->email = "saif@saifosys.com"; 
+$student->class = "10A";
+$student->phone = "1234567890";
 $student->save();  
 
 Explanation:  
 
 $student = new Student(); → Creates a new student object.  
 
-$student->name = "Ali"; → Assigns the name.  
+$student->name = "Saif"; → Assigns the name.  
+$student->email = "saif@saifosys.com"; → Assigns the email.  
+$student->class = "10A"; -> Assigns the class.
+$student->phone = "1234567890"; -> Assigns the phone.
 
-$student->email = "ali@example.com"; → Assigns the email.  
 
 $student->save(); → Saves this record to the database.  
 
@@ -141,11 +145,6 @@ Finds the student by ID.
 
 Deletes the record from the database.  
 
-
-Now we will see the practical session of CRUD in laravel 12 using a route, controller, model and views.   
-crud means create,red,update,delete. these are the basic operations we perform on data operations.  
-
-
 ### Summary (End of Class)
 
 Models represent database tables.  
@@ -153,5 +152,8 @@ Models represent database tables.
 Naming convention: Model = singular, Table = plural.  
 
 We use model methods like all(), find(), save(), delete() to work with database.  
+
+Now we will see the practical session of CRUD in laravel 12 using a route, controller, model and views.   
+crud means create,red,update,delete. these are the basic operations we perform on data operations.  
 
 

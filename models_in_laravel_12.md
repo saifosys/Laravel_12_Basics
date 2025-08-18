@@ -145,15 +145,12 @@ Finds the student by ID.
 
 Deletes the record from the database.  
 
-### Summary (End of Class)
-
+### Summary
 Models represent database tables.  
 
 Naming convention: Model = singular, Table = plural.  
 
 We use model methods like all(), find(), save(), delete() to work with database.  
 
-Now we will see the practical session of CRUD in laravel 12 using a route, controller, model and views.   
-crud means create,red,update,delete. these are the basic operations we perform on data operations.  
 
 

@@ -83,8 +83,8 @@ I will show you the code and explain what each part does. Don’t worry about ru
 $student = new Student();  
 $student->name = "Saif";  
 $student->email = "saif@saifosys.com"; 
-$student->class = "10A";
-$student->phone = "1234567890";
+$student->class = "10A";  
+$student->phone = "1234567890";  
 $student->save();  
 
 Explanation:  

@@ -92,9 +92,9 @@ Explanation:
 $student = new Student(); → Creates a new student object.  
 
 $student->name = "Saif"; → Assigns the name.  
-$student->email = "saif@saifosys.com"; → Assigns the email.  
-$student->class = "10A"; -> Assigns the class.
-$student->phone = "1234567890"; -> Assigns the phone.
+$student->email = "saif@saifosys.com"; → Assigns the email.   
+$student->class = "10A"; -> Assigns the class.  
+$student->phone = "1234567890"; -> Assigns the phone.  
 
 
 $student->save(); → Saves this record to the database.  
